@@ -4,7 +4,7 @@ Coarse-grained (Martini 2) Molecular Dynamics Production Simulation files for he
 
 The following systems were simulated:
  - **RWPE1**:  Healthy prostate epithelial cells
- - **BPH-1**:  Benign prostatic hyperplasia epithelial cells
+ - **BPH-1**:  Benign hyperplastic prostate epithelial cells
  - **PC-3**:   Bone metastatic prostate epithelial cells (with phosphatidylserine symmetry imposed)
  - **LNCaP**:  Lymph node metastatic prostate epithelial cells (with phosphatidylserine symmetry imposed)
  - **DU145**:  Brain metastatic prostate epithelial cells (with phosphatidylserine symmetry imposed)
